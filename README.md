@@ -6,4 +6,5 @@
 - 💬 Ask me about anything related to C++, Python, the latest anime series, or your favorite games.
 - 📫 How to reach me: nspyia2018@gmail.com
 - 😄 Pronouns: He/Him
+- 🛫 目前正在寻找 wlb 的工作机会
 
